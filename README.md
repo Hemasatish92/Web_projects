@@ -8,7 +8,7 @@ https://hemasatish92.github.io/Project-TinDog/
 
 ---------------------------------------------------
 
-Project2: Dice Challenge 
+Project1: Dice Challenge 
 
 It is a Dice Game for 2 players🎲🏆 
 
